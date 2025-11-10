@@ -35,3 +35,11 @@ So I built the simplest thing I could think of to find out.
 6. Basic charts shown in Power BI
 
 **That's it!** Nothing fancy, just the basics.
+
+**Visual:**
+```
+Google Sheets → n8n → Claude AI → SQL Server → Power BI
+     (input)    (automation)  (analysis)  (storage)  (visualization)
+```
+
+---
