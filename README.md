@@ -37,8 +37,8 @@ So I built the simplest thing I could think of to find out.
 **That's it!** Nothing fancy, just the basics.
 
 **Visual:**
-
-![Google Sheets diagram](images/Google Sheets.png)
+---
+![Google Sheets diagram](images/google-sheets.png) -> 
 
 
 
